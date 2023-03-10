@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1091051071694",
+    "project_id": "hangout-finance-application",
+    "storage_bucket": "hangout-finance-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091051071694:android:88aff070f280605d00089f",
+        "android_client_info": {
+          "package_name": "com.example.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091051071694-dcf594kih3qf1fd596fvnraapbcsu270.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhOWfiveU4UKa0JbXYa62hjFFOfOcikXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091051071694-dcf594kih3qf1fd596fvnraapbcsu270.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091051071694:android:e7732dcd03d5e1a600089f",
+        "android_client_info": {
+          "package_name": "com.example.hangoutfinance_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091051071694-dcf594kih3qf1fd596fvnraapbcsu270.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhOWfiveU4UKa0JbXYa62hjFFOfOcikXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091051071694-dcf594kih3qf1fd596fvnraapbcsu270.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
